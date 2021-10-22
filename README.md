@@ -9,7 +9,7 @@
   - Rust;
   - Some very basic type theory;
   - The periodic table, off by heart, in moderate detail;
-  - Digits of π, off by heart (260 digits memorised so far).
+  - Digits of π, off by heart (400 digits memorised so far).
   - Memorising the order of a deck of playing cards, off by heart (can do 18 cards so far).
 
 - ⚡ Fun fact: Python is older than Java.
